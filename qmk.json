@@ -1,8 +1,8 @@
 {
-    "build_targets": [
-        {
-            "keyboard": "ao40_for_ets",
-            "keymap": "vial"
+    "userspace_version": "1.0.0",
+    "keyboards": {
+        "ao40_for_ets": {
+            "keymaps": ["vial"]
         }
-    ]
+    }
 }
