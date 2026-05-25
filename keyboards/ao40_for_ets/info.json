@@ -18,10 +18,6 @@
         "pin": "GP20",
         "num_leds": 1
     },
-    "matrix_size": {
-    "cols": 12,
-    "rows": 4
-    },
     "matrix_pins": {
         "cols": ["GP1", "GP2", "GP3", "GP4", "GP5", "GP29", "GP28", "GP27", "GP26", "GP15", "GP0", "GP13"],
         "rows": ["GP6", "GP7", "GP8", "GP14"]
@@ -96,7 +92,7 @@
                 {"matrix": [2, 7], "x": 7, "y": 3},
                 {"matrix": [2, 8], "x": 8, "y": 3},
                 {"matrix": [2, 9], "x": 9, "y": 3},
-                
+
                 {"matrix": [3, 0], "x": 0, "y": 4},
                 {"matrix": [3, 1], "x": 1, "y": 4},
                 {"matrix": [3, 2], "x": 2, "y": 4},
