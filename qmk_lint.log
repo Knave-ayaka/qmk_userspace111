@@ -1,0 +1,2 @@
+usage: qmk lint [-h] [-km KEYMAP] [-kb KEYBOARD] [--strict]
+qmk lint: error: argument -kb/--keyboard: invalid keyboard_folder_or_all value: 'ao40_for_ets'
