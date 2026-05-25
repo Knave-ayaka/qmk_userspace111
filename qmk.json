@@ -1,5 +1,5 @@
 {
-    "userspace_version": "1.0.0",
+    "userspace_version": "1.0",
     "keyboards": {
         "ao40_for_ets": {
             "keymaps": ["vial"]
