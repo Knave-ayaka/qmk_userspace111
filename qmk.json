@@ -1,6 +1,6 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["ao40_for_ets", "vial"]
+        ["etsc", "vial"]
     ]
 }
